@@ -53,7 +53,6 @@ Dashboard images (embedded below for quick preview):
 
 <img src="https://github.com/omkarshinde25/Uber-Trip-Analysis/blob/main/Dashboards/Uber%20Trip%20Detail%20Analysis.png" width="800"> <br>
 
-> NOTE: If you add these images to your GitHub repo, keep filenames the same for this README to render correctly.
 
 ---
 
