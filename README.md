@@ -73,8 +73,6 @@ Dashboard images (embedded below for quick preview):
 * `Trip Details[DOLocationID]` -> `Location Table[LocationID]` (inactive; use USERELATIONSHIP when needed)
 * `Trip Details[Pick Up Date]` -> `Calendar[Date]` (active)
 
-Include a relationship diagram image here if you have one (recommended). If not, create it in Power BI Relationships view and export as PNG.
-
 ---
 
 ## 4. Data preparation & transformations (step‑by‑step)
