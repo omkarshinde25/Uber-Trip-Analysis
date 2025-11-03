@@ -15,6 +15,7 @@
 7. Navigation, bookmarks & buttons (how to add PNG as page navigator)
 8. Performance recommendations
 9. How to reproduce / deliverables
+10. Drill-Down and Interactivity
 
 ---
 
@@ -271,3 +272,10 @@ Explanation for viewers: The heatmap identifies peak demand windows (hours x wee
 
 ---
 
+## 10. Drill-Down and Interactivity
+
+The dashboard includes an **interactive drill-down feature** connecting the **Overview page KPIs** — **Total Bookings**, **Total Booking Value**, and **Total Trip Distance** — to the **3rd dashboard (Trip Details Analysis)**.
+
+Users can simply **click any KPI card** to navigate directly to the detailed report view for that specific metric. This enables deeper insights into **booking-level data**, **route patterns**, and **time-based trends**.
+
+The drill-through link is implemented using **Power BI’s “Drillthrough” functionality**, ensuring filters are passed automatically to the **Details page**, making the exploration **smooth**, **dynamic**, and **user-friendly**.
